@@ -1,0 +1,29 @@
+
+#container{
+          background-image:url(images/texture_html.jpg);
+          padding: 10%;
+          }
+
+body {
+      background-image:url(images/texture_html.jpg);
+     background-repeat:repeat;
+     min-height:100%;
+     width:980px;
+     margin-right:auto;
+     margin-left:auto;
+     margin-top:0px;
+    margin-bottom:0px;
+     -moz-box-shadow: 1px 1px 15px #000000;
+     -webkit-box-shadow: 1px 1px 15px #000000;
+     box-shadow: 1px 1px 15px #000000;
+
+     }
+
+header{
+  background-image:url(images/integration.jpg);
+      height:200px;
+      width:800px;
+    
+    }
+
+
